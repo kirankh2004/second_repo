@@ -4,3 +4,5 @@ if a + b == 3:
     print ('true')
 else:
     print ('false')
+
+c=4
